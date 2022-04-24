@@ -6,7 +6,7 @@ using [Webpack] and [ts-loader].
 ## Technologies:
 
 - TypeScript
-- 
+- java Script
 
 ## Installation
 
