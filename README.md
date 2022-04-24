@@ -8,6 +8,12 @@ using [Webpack] and [ts-loader].
 - TypeScript
 - java Script
 
+## Features : 
+
+- Button today
+- link 
+- Listed monthly, weekly, daily
+
 ## Installation
 
 ```sh
